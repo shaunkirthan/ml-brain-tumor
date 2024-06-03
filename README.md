@@ -1,4 +1,5 @@
 Shaun Kirthan
+
 Project Scoping Brain Tumor Detection
 ----------------------------------------------------------------------------------------------------------------
 I. Introduction
