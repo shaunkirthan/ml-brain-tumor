@@ -1,8 +1,4 @@
- Team Members:
-- Aadarsh Siddha
-- Akshita Singh
-- Praneith Ranganath - Shaun Kirthan
-- Yashasvi Sharma
+Shaun Kirthan
 Project Scoping Brain Tumor Detection
 ----------------------------------------------------------------------------------------------------------------
 I. Introduction
